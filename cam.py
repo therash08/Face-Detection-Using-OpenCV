@@ -7,7 +7,6 @@
 
 import cv2
 
-# 0 সাধারণত ডিফল্ট ক্যামেরা (ল্যাপটপের বিল্ট-ইন)
 cam = cv2.VideoCapture(0)
 
 while True:
